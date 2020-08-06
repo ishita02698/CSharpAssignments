@@ -1,0 +1,14 @@
+E:\New folder\AssignmentOnLinkedList\AssignmentOnLinkedList\bin\Debug\AssignmentOnLinkedList.exe.config
+E:\New folder\AssignmentOnLinkedList\AssignmentOnLinkedList\bin\Debug\AssignmentOnLinkedList.exe
+E:\New folder\AssignmentOnLinkedList\AssignmentOnLinkedList\bin\Debug\AssignmentOnLinkedList.pdb
+E:\New folder\AssignmentOnLinkedList\AssignmentOnLinkedList\obj\Debug\AssignmentOnLinkedList.csproj.CoreCompileInputs.cache
+E:\New folder\AssignmentOnLinkedList\AssignmentOnLinkedList\obj\Debug\AssignmentOnLinkedList.exe
+E:\New folder\AssignmentOnLinkedList\AssignmentOnLinkedList\obj\Debug\AssignmentOnLinkedList.pdb
+E:\New folder\AssignmentOnLinkedList\AssignmentOnLinkedList\obj\Debug\AssignmentOnLinkedList.csprojAssemblyReference.cache
+D:\Microsoft Full Stack\DotNet\CSharpAssignments\AssignmentOnCSharp\AssignmentOnLinkedList\AssignmentOnLinkedList\bin\Debug\AssignmentOnLinkedList.exe.config
+D:\Microsoft Full Stack\DotNet\CSharpAssignments\AssignmentOnCSharp\AssignmentOnLinkedList\AssignmentOnLinkedList\bin\Debug\AssignmentOnLinkedList.exe
+D:\Microsoft Full Stack\DotNet\CSharpAssignments\AssignmentOnCSharp\AssignmentOnLinkedList\AssignmentOnLinkedList\bin\Debug\AssignmentOnLinkedList.pdb
+D:\Microsoft Full Stack\DotNet\CSharpAssignments\AssignmentOnCSharp\AssignmentOnLinkedList\AssignmentOnLinkedList\obj\Debug\AssignmentOnLinkedList.csprojAssemblyReference.cache
+D:\Microsoft Full Stack\DotNet\CSharpAssignments\AssignmentOnCSharp\AssignmentOnLinkedList\AssignmentOnLinkedList\obj\Debug\AssignmentOnLinkedList.csproj.CoreCompileInputs.cache
+D:\Microsoft Full Stack\DotNet\CSharpAssignments\AssignmentOnCSharp\AssignmentOnLinkedList\AssignmentOnLinkedList\obj\Debug\AssignmentOnLinkedList.exe
+D:\Microsoft Full Stack\DotNet\CSharpAssignments\AssignmentOnCSharp\AssignmentOnLinkedList\AssignmentOnLinkedList\obj\Debug\AssignmentOnLinkedList.pdb
